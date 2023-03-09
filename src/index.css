@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*
+{
+  box-sizing: border-box;
+  font-family: 'Playfair Display', serif;
+  margin: 0px;
+  padding: 0px;
+}
+
+body
+{
+  min-height: 100vh;
+  width: 100%;
+}
